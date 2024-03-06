@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="choices_layout" type="id">choices</item>
+    <item name="answerA" type="id">answerA</item>
+    <item name="answerB" type="id">aanswerB</item>
+    <item name="answerC" type="id">answerC</item>
+    <item name="answerD" type="id">answer_B</item>
+    <item name="answer_D" type="id">answerD</item>
+</resources>
